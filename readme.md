@@ -44,7 +44,7 @@ Points techniques que l'on va mettre en pratique :
 ## 3. Procédure de mise en place en local
 
 - Cloner le fichier sur votre ordinateur avec  
-  `git clone https://github.com/AnxionnazFlo/Projet_Jeux_Combat`
+  `git clone https://github.com/AnxionnazFlo/Projet_Jeux_Combat.git`
 
 - Installer le projet dans le dossier htdocs de XAMPP (www sous WAMP)  
 
